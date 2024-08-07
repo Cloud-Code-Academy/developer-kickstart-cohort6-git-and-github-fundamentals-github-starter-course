@@ -4,3 +4,8 @@ h1 {
     background-color: blue;
     text-align: center;
 }
+
+hr {
+    color: green;
+    width: 200px;
+}
